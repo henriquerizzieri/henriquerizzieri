@@ -1,4 +1,4 @@
-- Hi, I’m @henriquerizzieri ( Henrique Rizzieri Romano)
+- Hi, I’m @_rizzieri ( Henrique Rizzieri Romano)
 - I’m interested in learning program languages of the most varied (Java, JavaScript, HTML, Python, GoLanguage, etc.).
 - I’m currently learning C, Phyton and HTML.
 
